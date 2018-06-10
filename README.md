@@ -1,2 +1,2 @@
-# The Thing Wrapper
-Wrapper for The Thing (video game) to make it easy to run the game in Windowed mode. Partially based on ThirteenAG wrapper.
+# NARC - Unfinished Wrapper
+An unfinished wrapper for NARC (2005), which I wrote to easily test the impact of raised framerate on the game.
